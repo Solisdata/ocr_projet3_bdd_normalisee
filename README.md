@@ -1,7 +1,7 @@
 # OCR - Projet 3 
 ## Création et utilisation d’une base de données permettant de suivre les transactions immobilières en France
 
-Projet réalisé dans le cadre de la formation **Data Engineer** d’OpenClassrooms.
+Projet réalisé dans le cadre de la formation **Data Engineer** d’OpenClassRoom.
 Juillet 2025 
 
 ---
